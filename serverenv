@@ -1,0 +1,11 @@
+http://ec2-18-219-3-112.us-east-2.compute.amazonaws.com/grocery_laravel/public/
+
+http://ec2-18-219-3-112.us-east-2.compute.amazonaws.com/
+
+
+DB_CONNECTION=mysql
+DB_HOST=dev-instance.csrkhi54pk1a.us-east-2.rds.amazonaws.com
+DB_PORT=3306
+DB_DATABASE=grocery
+DB_USERNAME=admin
+DB_PASSWORD=mann4471
